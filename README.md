@@ -39,4 +39,4 @@ Scene 2 : Trained on **generated** images, Test on **generated** images
 
 # Acknowledgments
 
-Inspired by [Erik Linder-Norén](https://github.com/eriklindernoren/Keras-GAN/tree/master/dcgan) and [JWC](https://github.com/yushuinanrong/PPRL-VGAN) 
+Inspired by [Erik Linder-Norén](https://github.com/eriklindernoren/Keras-GAN/tree/master/dcgan).
