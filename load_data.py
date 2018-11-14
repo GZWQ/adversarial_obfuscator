@@ -5,6 +5,7 @@ import qrcode,cv2
 nb_classes = 2
 from PIL import Image
 import matplotlib.pyplot as plt
+import os
 
 def cifar():
     print("Loading cifar10 data ...")
