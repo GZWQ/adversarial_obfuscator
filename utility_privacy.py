@@ -8,7 +8,7 @@ from keras.layers.advanced_activations import LeakyReLU
 import load_data
 from keras.models import load_model
 import numpy as np
-import os
+import os 
 
 def generated_images(data):
     model = load_model('./models_vaegan/1980_autoencoder.h5')
