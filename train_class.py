@@ -9,7 +9,7 @@ import random
 import matplotlib.pyplot as plt
 import os,time
 from PIL import Image
-# from tqdm import tqdm
+from tqdm import tqdm
 import numpy as np
 
 class ae_gan():
